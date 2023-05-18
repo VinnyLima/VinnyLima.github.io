@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Vinicius",
   middleName: "",
   lastName: "Lima",
-  message: "Integrations Technical Specialist",
+  message: "Developer FullStack Javascript | TypesCript | Node.js | React.js",
   icons: [
     {
       image: "fa-github",
@@ -121,28 +121,28 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Integrations Technical Specialist - Toolbox TVE',// Here Add Company Name
-      companylogo: require('../assets/img/toolbox.png'),
-      imgSize: 170,
-      date: 'January 2022 – Present',
+      role: 'ACT Digital',
+      companylogo: require('../assets/img/actdigital.jpeg'),
+      imgSize: 120,
+      date: 'Ago 2022 – Present',
     },
     {
-      role: 'Integration Engineer - Linkapi/Semantix',// Here Add Company Name
-      imgSize: 170,
-      companylogo: require('../assets/img/linkapi.png'),
-      date: 'June 2021 – January 2022',
+      role: 'Green Belt Tecnologia',
+      imgSize: 120,
+      companylogo: require('../assets/img/greenbelt.jpeg'),
+      date: 'Jan 2021 – Set 2022',
     },
     {
-      role: 'Full Stack Developer - Guenka Software',// Here Add Company Name
-      imgSize: 170,
-      companylogo: require('../assets/img/guenka.jpeg'),
-      date: 'August 2020 – May 2021',
+      role: 'Civitt - Design que inspira',
+      imgSize: 120,
+      companylogo: require('../assets/img/civitt.png'),
+      date: 'Ago 2018 – Out 2020',
     },
     {
-      role: 'Project Manager - Solucaut',// Here Add Company Name
-      imgSize: 170,
-      companylogo: require('../assets/img/solucaut.png'),
-      date: 'July 2019 – August 2020',
+      role: 'Mvinfoltec -Suprimentos de Informática',
+      imgSize: 120,
+      companylogo: require('../assets/img/mvinfoltec.jpg'),
+      date: 'May 2010 – August 2017',
     },
   ]
 }
