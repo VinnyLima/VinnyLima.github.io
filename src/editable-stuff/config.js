@@ -86,14 +86,16 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
+    { name: "TypeScript", value: 90 },
     { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "Python", value: 10 },
+    { name: "SQL", value: 75 },
+    { name: "MongoDB", value: 30 },
+    { name: "PostgrSQL", value: 75 },
+    { name: "Data Structures", value: 85 },
+    { name: "React", value: 75 },
+    { name: "Next.js", value: 70 },
+    { name: "HTML/CSS", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -113,7 +115,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "If you need help in a project, or maybe have something interesting to say, please contact me at",
-  email: "pedrotashima@protonmail.com",
+  email: "paulo.vinicius.f.l@live.com",
 };
 
 const experiences = {
