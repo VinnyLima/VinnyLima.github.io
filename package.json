@@ -1,7 +1,7 @@
 {
   "name": "portifolio-para-developer",
   "description": "Um template de site estático pessoal/portifolio hosteado com o Github Pages, construído para mostrar meus projetos recentes",
-  "homepage": "https://www.vinnylima.github.io",
+  "homepage": "https://vinnylima.github.io/",
   "version": "0.1.0",
   "private": false,
   "author": {
