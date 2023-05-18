@@ -1,0 +1,53 @@
+{
+  "name": "portifolio-para-developer",
+  "description": "Um template de site estático pessoal/portifolio hosteado com o Github Pages, construído para mostrar meus projetos recentes",
+  "homepage": "https://www.vinnylima.github.io",
+  "version": "0.1.0",
+  "private": false,
+  "author": {
+    "name": "Vinicius Lima",
+    "email": "paulo.vinicius.f.l@live.com",
+    "url": "https://github.com/VinnyLima.github.io"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.2",
+    "gh-pages": "^2.2.0",
+    "jquery": "^3.6.0",
+    "node-sass": "^7.0.1",
+    "prop-types": "^15.8.1",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.6.5",
+    "react-dom": "^16.14.0",
+    "react-loading-skeleton": "^2.2.0",
+    "react-router": "^5.3.3",
+    "react-router-dom": "^5.3.3",
+    "react-scripts": "^5.0.1",
+    "react-typist": "^2.0.5",
+    "typescript": "^3.9.10"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "custom-deploy": "node pages.js"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
